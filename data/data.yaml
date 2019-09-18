@@ -1,0 +1,46 @@
+login_data001:
+  username: "15190488353"
+  password: "123456"
+  success: True
+  expect: "itheima001"
+login_data002:
+  username: " 15190488353 "
+  password: "123456"
+  success: True
+  expect: "itheima001"
+login_data003:
+  username: "itheima001"
+  password: "123456"
+  success: True
+  expect: "itheima001"
+login_data004:
+  username: " itheima001 "
+  password: "123456"
+  success: True
+  expect: "itheima001"
+login_data005:
+  username: "15190488352"
+  password: "123456"
+  success: False
+  expect: "此用户不存在"
+login_data006:
+  username: "151904883522"
+  password: "123456"
+  success: False
+  expect: "此用户不存在"
+login_data007:
+  username: "15190488353"
+  password: "1234567"
+  success: False
+  expect: "登录密码错误"
+login_data008:
+  username: "itheima001"
+  password: "1234567"
+  success: False
+  expect: "登录密码错误"
+login_data009:
+  username: "itheima002"
+  password: "1234567"
+  success: False
+  expect: "此用户不存在"
+

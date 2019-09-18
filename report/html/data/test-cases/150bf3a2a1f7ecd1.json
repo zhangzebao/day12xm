@@ -1,0 +1,3118 @@
+{
+  "uid" : "150bf3a2a1f7ecd1",
+  "name" : "TestAddress.test_address",
+  "fullName" : "test_address.TestAddress.test_address",
+  "historyId" : "fe98b5e05375cbd9eda4851daf3f2a6c",
+  "time" : {
+    "start" : 1568683475916,
+    "stop" : 1568683576627,
+    "duration" : 100711
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "初始化驱动对象",
+      "time" : {
+        "start" : 1568683475923,
+        "stop" : 1568683505785,
+        "duration" : 29862
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ca0e6ef1e30ccf71",
+        "name" : "获取driver对象:",
+        "source" : "ca0e6ef1e30ccf71.txt",
+        "type" : "text/plain",
+        "size" : 87
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "初始化驱动对象",
+      "time" : {
+        "start" : 1568683505785,
+        "stop" : 1568683505786,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7fd447edc7a1aa81",
+        "name" : "获取driver对象:",
+        "source" : "7fd447edc7a1aa81.txt",
+        "type" : "text/plain",
+        "size" : 87
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "不更新方法",
+      "time" : {
+        "start" : 1568683505786,
+        "stop" : 1568683507177,
+        "duration" : 1391
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击元素操作",
+        "time" : {
+          "start" : 1568683505786,
+          "stop" : 1568683507177,
+          "duration" : 1391
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683505786,
+            "stop" : 1568683506773,
+            "duration" : 987
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "374cce7d4aeab4be",
+            "name" : "查找的元素:",
+            "source" : "374cce7d4aeab4be.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683506773,
+            "stop" : 1568683507042,
+            "duration" : 269
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "517b296a466c2ff2",
+            "name" : "查找的元素:",
+            "source" : "517b296a466c2ff2.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683507044,
+            "stop" : 1568683507107,
+            "duration" : 63
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e292e330617dd7b1",
+            "name" : "查找的元素:",
+            "source" : "e292e330617dd7b1.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ {
+          "uid" : "baa435bd00fd8a7a",
+          "name" : "点击的元素:",
+          "source" : "baa435bd00fd8a7a.txt",
+          "type" : "text/plain",
+          "size" : 137
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 3
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "hasContent" : true,
+      "stepsCount" : 4
+    }, {
+      "name" : "点击我方法",
+      "time" : {
+        "start" : 1568683507177,
+        "stop" : 1568683509232,
+        "duration" : 2055
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击元素操作",
+        "time" : {
+          "start" : 1568683507177,
+          "stop" : 1568683509232,
+          "duration" : 2055
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683507177,
+            "stop" : 1568683507948,
+            "duration" : 771
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "bb29ef7b72825f03",
+            "name" : "查找的元素:",
+            "source" : "bb29ef7b72825f03.txt",
+            "type" : "text/plain",
+            "size" : 34
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683507948,
+            "stop" : 1568683508571,
+            "duration" : 623
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "ec81af96ecb83f48",
+            "name" : "查找的元素:",
+            "source" : "ec81af96ecb83f48.txt",
+            "type" : "text/plain",
+            "size" : 34
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683508571,
+            "stop" : 1568683509200,
+            "duration" : 629
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e6090d6c652a680a",
+            "name" : "查找的元素:",
+            "source" : "e6090d6c652a680a.txt",
+            "type" : "text/plain",
+            "size" : 34
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ {
+          "uid" : "be1eee190e499180",
+          "name" : "点击的元素:",
+          "source" : "be1eee190e499180.txt",
+          "type" : "text/plain",
+          "size" : 137
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 3
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "hasContent" : true,
+      "stepsCount" : 4
+    }, {
+      "name" : "点击已有账号去登陆方法",
+      "time" : {
+        "start" : 1568683509232,
+        "stop" : 1568683511385,
+        "duration" : 2153
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击元素操作",
+        "time" : {
+          "start" : 1568683509232,
+          "stop" : 1568683511385,
+          "duration" : 2153
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683509232,
+            "stop" : 1568683510703,
+            "duration" : 1471
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "21cdf8b0b6e94f8e",
+            "name" : "查找的元素:",
+            "source" : "21cdf8b0b6e94f8e.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683510703,
+            "stop" : 1568683511282,
+            "duration" : 579
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "cd9ffa85a02942b0",
+            "name" : "查找的元素:",
+            "source" : "cd9ffa85a02942b0.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        }, {
+          "name" : "定位元素操作",
+          "time" : {
+            "start" : 1568683511282,
+            "stop" : 1568683511332,
+            "duration" : 50
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "9b251ad74c609d52",
+            "name" : "查找的元素:",
+            "source" : "9b251ad74c609d52.txt",
+            "type" : "text/plain",
+            "size" : 37
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ {
+          "uid" : "751c8acb7082974a",
+          "name" : "点击的元素:",
+          "source" : "751c8acb7082974a.txt",
+          "type" : "text/plain",
+          "size" : 137
+        } ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 3
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4,
+      "hasContent" : true,
+      "stepsCount" : 4
+    }, {
+      "name" : "登录组合业务方法",
+      "time" : {
+        "start" : 1568683511386,
+        "stop" : 1568683517816,
+        "duration" : 6430
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "输入用户名方法",
+        "time" : {
+          "start" : 1568683511386,
+          "stop" : 1568683513803,
+          "duration" : 2417
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683511386,
+            "stop" : 1568683513803,
+            "duration" : 2417
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683511386,
+              "stop" : 1568683511946,
+              "duration" : 560
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "a68d93f87517dc16",
+              "name" : "查找的元素:",
+              "source" : "a68d93f87517dc16.txt",
+              "type" : "text/plain",
+              "size" : 50
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683511946,
+              "stop" : 1568683511981,
+              "duration" : 35
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "2f69d157985d97fe",
+              "name" : "查找的元素:",
+              "source" : "2f69d157985d97fe.txt",
+              "type" : "text/plain",
+              "size" : 50
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683512069,
+              "stop" : 1568683512119,
+              "duration" : 50
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "cfefca1c6f932e7a",
+              "name" : "查找的元素:",
+              "source" : "cfefca1c6f932e7a.txt",
+              "type" : "text/plain",
+              "size" : 50
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "cfcbe7beaec2e235",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"de8607ad-3500-4061-b26f-1080de8190d0\")>元素输入",
+            "source" : "cfcbe7beaec2e235.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入密码方法",
+        "time" : {
+          "start" : 1568683513803,
+          "stop" : 1568683517190,
+          "duration" : 3387
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683513803,
+            "stop" : 1568683517190,
+            "duration" : 3387
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683513803,
+              "stop" : 1568683514314,
+              "duration" : 511
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "63f2d67d5113bdbe",
+              "name" : "查找的元素:",
+              "source" : "63f2d67d5113bdbe.txt",
+              "type" : "text/plain",
+              "size" : 51
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683514314,
+              "stop" : 1568683514353,
+              "duration" : 39
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "2606434bf081b683",
+              "name" : "查找的元素:",
+              "source" : "2606434bf081b683.txt",
+              "type" : "text/plain",
+              "size" : 51
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683514415,
+              "stop" : 1568683514464,
+              "duration" : 49
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "bb001a98d332add7",
+              "name" : "查找的元素:",
+              "source" : "bb001a98d332add7.txt",
+              "type" : "text/plain",
+              "size" : 51
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "a33b0cf6b1eae473",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"be2e1ebd-25e3-48ef-bf2e-001062082864\")>元素输入",
+            "source" : "a33b0cf6b1eae473.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击登陆方法",
+        "time" : {
+          "start" : 1568683517190,
+          "stop" : 1568683517816,
+          "duration" : 626
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683517190,
+            "stop" : 1568683517816,
+            "duration" : 626
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683517190,
+              "stop" : 1568683517707,
+              "duration" : 517
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "66ceb729ec593014",
+              "name" : "查找的元素:",
+              "source" : "66ceb729ec593014.txt",
+              "type" : "text/plain",
+              "size" : 40
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683517707,
+              "stop" : 1568683517742,
+              "duration" : 35
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "4f19600ece993507",
+              "name" : "查找的元素:",
+              "source" : "4f19600ece993507.txt",
+              "type" : "text/plain",
+              "size" : 40
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683517743,
+              "stop" : 1568683517780,
+              "duration" : 37
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "7dfceb099c2923d7",
+              "name" : "查找的元素:",
+              "source" : "7dfceb099c2923d7.txt",
+              "type" : "text/plain",
+              "size" : 40
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "e38f61ea92b987b7",
+            "name" : "点击的元素:",
+            "source" : "e38f61ea92b987b7.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 12,
+      "hasContent" : true,
+      "stepsCount" : 15
+    }, {
+      "name" : "新增地址组合业务方法",
+      "time" : {
+        "start" : 1568683520818,
+        "stop" : 1568683550017,
+        "duration" : 29199
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击设置方法",
+        "time" : {
+          "start" : 1568683520818,
+          "stop" : 1568683521007,
+          "duration" : 189
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683520818,
+            "stop" : 1568683521007,
+            "duration" : 189
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683520818,
+              "stop" : 1568683520864,
+              "duration" : 46
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "269d9cf249607329",
+              "name" : "查找的元素:",
+              "source" : "269d9cf249607329.txt",
+              "type" : "text/plain",
+              "size" : 53
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683520864,
+              "stop" : 1568683520901,
+              "duration" : 37
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "28dff923468c798e",
+              "name" : "查找的元素:",
+              "source" : "28dff923468c798e.txt",
+              "type" : "text/plain",
+              "size" : 53
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683520902,
+              "stop" : 1568683520954,
+              "duration" : 52
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "cf45a62047d49942",
+              "name" : "查找的元素:",
+              "source" : "cf45a62047d49942.txt",
+              "type" : "text/plain",
+              "size" : 53
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "388e37eca9bcf566",
+            "name" : "点击的元素:",
+            "source" : "388e37eca9bcf566.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击地址管理方法",
+        "time" : {
+          "start" : 1568683521007,
+          "stop" : 1568683522747,
+          "duration" : 1740
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "轻敲元素操作",
+          "time" : {
+            "start" : 1568683521007,
+            "stop" : 1568683522747,
+            "duration" : 1740
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683521007,
+              "stop" : 1568683522624,
+              "duration" : 1617
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "231aa578180308d8",
+              "name" : "查找的元素:",
+              "source" : "231aa578180308d8.txt",
+              "type" : "text/plain",
+              "size" : 50
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 2
+      }, {
+        "name" : "点击新增地址方法",
+        "time" : {
+          "start" : 1568683522747,
+          "stop" : 1568683527361,
+          "duration" : 4614
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683522747,
+            "stop" : 1568683527361,
+            "duration" : 4614
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683522747,
+              "stop" : 1568683527259,
+              "duration" : 4512
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "43a371970575f748",
+              "name" : "查找的元素:",
+              "source" : "43a371970575f748.txt",
+              "type" : "text/plain",
+              "size" : 47
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683527259,
+              "stop" : 1568683527290,
+              "duration" : 31
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "92b59acdf1043cd2",
+              "name" : "查找的元素:",
+              "source" : "92b59acdf1043cd2.txt",
+              "type" : "text/plain",
+              "size" : 47
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683527290,
+              "stop" : 1568683527328,
+              "duration" : 38
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "a870dd67490efb9b",
+              "name" : "查找的元素:",
+              "source" : "a870dd67490efb9b.txt",
+              "type" : "text/plain",
+              "size" : 47
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "3c04d4ac448bc448",
+            "name" : "点击的元素:",
+            "source" : "3c04d4ac448bc448.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入收件人方法",
+        "time" : {
+          "start" : 1568683527361,
+          "stop" : 1568683533914,
+          "duration" : 6553
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683527361,
+            "stop" : 1568683533914,
+            "duration" : 6553
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683527361,
+              "stop" : 1568683532042,
+              "duration" : 4681
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "c2b429a14c943c84",
+              "name" : "查找的元素:",
+              "source" : "c2b429a14c943c84.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683532042,
+              "stop" : 1568683532072,
+              "duration" : 30
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "f70b51ddbe603d79",
+              "name" : "查找的元素:",
+              "source" : "f70b51ddbe603d79.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683532236,
+              "stop" : 1568683532295,
+              "duration" : 59
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "c320aabe252b04db",
+              "name" : "查找的元素:",
+              "source" : "c320aabe252b04db.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "82f61b6108945668",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"cefa4bf5-f650-4ef1-95ac-434063d1fb25\")>元素输入",
+            "source" : "82f61b6108945668.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入手机号方法",
+        "time" : {
+          "start" : 1568683533914,
+          "stop" : 1568683536779,
+          "duration" : 2865
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683533914,
+            "stop" : 1568683536779,
+            "duration" : 2865
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683533914,
+              "stop" : 1568683535084,
+              "duration" : 1170
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "60468767204ce8ef",
+              "name" : "查找的元素:",
+              "source" : "60468767204ce8ef.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683535084,
+              "stop" : 1568683535141,
+              "duration" : 57
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "173db68310f0c7ab",
+              "name" : "查找的元素:",
+              "source" : "173db68310f0c7ab.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683535205,
+              "stop" : 1568683535258,
+              "duration" : 53
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "1c3b79ef12d7eccd",
+              "name" : "查找的元素:",
+              "source" : "1c3b79ef12d7eccd.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "f760ffa32d25c89d",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"8d5eb585-4f2e-4562-9f02-680593f32570\")>元素输入",
+            "source" : "f760ffa32d25c89d.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "新增地址点击所在地区",
+        "time" : {
+          "start" : 1568683536779,
+          "stop" : 1568683537388,
+          "duration" : 609
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683536779,
+            "stop" : 1568683537388,
+            "duration" : 609
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683536779,
+              "stop" : 1568683537289,
+              "duration" : 510
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "cdd1cc81061ca708",
+              "name" : "查找的元素:",
+              "source" : "cdd1cc81061ca708.txt",
+              "type" : "text/plain",
+              "size" : 44
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683537289,
+              "stop" : 1568683537324,
+              "duration" : 35
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "da1d34c4ec35cd0d",
+              "name" : "查找的元素:",
+              "source" : "da1d34c4ec35cd0d.txt",
+              "type" : "text/plain",
+              "size" : 44
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683537324,
+              "stop" : 1568683537354,
+              "duration" : 30
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "537c655b0e0622b9",
+              "name" : "查找的元素:",
+              "source" : "537c655b0e0622b9.txt",
+              "type" : "text/plain",
+              "size" : 44
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "ecd08fb75f5c2abd",
+            "name" : "点击的元素:",
+            "source" : "ecd08fb75f5c2abd.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "第一次点击北京市方法",
+        "time" : {
+          "start" : 1568683537388,
+          "stop" : 1568683542232,
+          "duration" : 4844
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683537388,
+            "stop" : 1568683542232,
+            "duration" : 4844
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683537388,
+              "stop" : 1568683542050,
+              "duration" : 4662
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "b17ddcd50785aa18",
+              "name" : "查找的元素:",
+              "source" : "b17ddcd50785aa18.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683542050,
+              "stop" : 1568683542133,
+              "duration" : 83
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "6f1ce46b4e97b6c6",
+              "name" : "查找的元素:",
+              "source" : "6f1ce46b4e97b6c6.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683542133,
+              "stop" : 1568683542187,
+              "duration" : 54
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "bd29913534ebf086",
+              "name" : "查找的元素:",
+              "source" : "bd29913534ebf086.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "2b36f204f37acb61",
+            "name" : "点击的元素:",
+            "source" : "2b36f204f37acb61.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "第二次点击北京市方法",
+        "time" : {
+          "start" : 1568683542232,
+          "stop" : 1568683543121,
+          "duration" : 889
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "轻敲元素操作",
+          "time" : {
+            "start" : 1568683542232,
+            "stop" : 1568683543121,
+            "duration" : 889
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683542232,
+              "stop" : 1568683542288,
+              "duration" : 56
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "a5c3646367e685be",
+              "name" : "查找的元素:",
+              "source" : "a5c3646367e685be.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 2
+      }, {
+        "name" : "点击昌平区方法",
+        "time" : {
+          "start" : 1568683543121,
+          "stop" : 1568683544136,
+          "duration" : 1015
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683543121,
+            "stop" : 1568683544136,
+            "duration" : 1015
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683543121,
+              "stop" : 1568683544002,
+              "duration" : 881
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "98ae19324b0a64c",
+              "name" : "查找的元素:",
+              "source" : "98ae19324b0a64c.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683544002,
+              "stop" : 1568683544050,
+              "duration" : 48
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "572287f7f315052c",
+              "name" : "查找的元素:",
+              "source" : "572287f7f315052c.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683544050,
+              "stop" : 1568683544105,
+              "duration" : 55
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "a0d9453a555f013d",
+              "name" : "查找的元素:",
+              "source" : "a0d9453a555f013d.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "3f3e5127c989a08",
+            "name" : "点击的元素:",
+            "source" : "3f3e5127c989a08.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入详细地址方法",
+        "time" : {
+          "start" : 1568683544136,
+          "stop" : 1568683546493,
+          "duration" : 2357
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683544136,
+            "stop" : 1568683546493,
+            "duration" : 2357
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683544136,
+              "stop" : 1568683544770,
+              "duration" : 634
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "36196a9a53eb2e44",
+              "name" : "查找的元素:",
+              "source" : "36196a9a53eb2e44.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683544770,
+              "stop" : 1568683544809,
+              "duration" : 39
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "c940707a44027123",
+              "name" : "查找的元素:",
+              "source" : "c940707a44027123.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683544886,
+              "stop" : 1568683544922,
+              "duration" : 36
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "466dc9e3de659920",
+              "name" : "查找的元素:",
+              "source" : "466dc9e3de659920.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "a6a50a215fada370",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"7d94ff6c-6231-4b59-8df6-bbd4b261b055\")>元素输入",
+            "source" : "a6a50a215fada370.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入邮编方法",
+        "time" : {
+          "start" : 1568683546493,
+          "stop" : 1568683548774,
+          "duration" : 2281
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683546493,
+            "stop" : 1568683548774,
+            "duration" : 2281
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683546493,
+              "stop" : 1568683547004,
+              "duration" : 511
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "849d786deba10177",
+              "name" : "查找的元素:",
+              "source" : "849d786deba10177.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683547004,
+              "stop" : 1568683547038,
+              "duration" : 34
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "868c01e395b943ca",
+              "name" : "查找的元素:",
+              "source" : "868c01e395b943ca.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683547099,
+              "stop" : 1568683547157,
+              "duration" : 58
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "bedd475a939f2b6d",
+              "name" : "查找的元素:",
+              "source" : "bedd475a939f2b6d.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "36c59ca371a91fae",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"7f9aad49-b736-4138-946a-752f7d035dc5\")>元素输入",
+            "source" : "36c59ca371a91fae.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击设为默认地址方法",
+        "time" : {
+          "start" : 1568683548774,
+          "stop" : 1568683549421,
+          "duration" : 647
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683548774,
+            "stop" : 1568683549421,
+            "duration" : 647
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683548774,
+              "stop" : 1568683549286,
+              "duration" : 512
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "feac84fbe5f4a514",
+              "name" : "查找的元素:",
+              "source" : "feac84fbe5f4a514.txt",
+              "type" : "text/plain",
+              "size" : 43
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683549287,
+              "stop" : 1568683549336,
+              "duration" : 49
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "3f9a09d1ab794faa",
+              "name" : "查找的元素:",
+              "source" : "3f9a09d1ab794faa.txt",
+              "type" : "text/plain",
+              "size" : 43
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683549336,
+              "stop" : 1568683549384,
+              "duration" : 48
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d84a4491598913db",
+              "name" : "查找的元素:",
+              "source" : "d84a4491598913db.txt",
+              "type" : "text/plain",
+              "size" : 43
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "43ec533d3ccd3a75",
+            "name" : "点击的元素:",
+            "source" : "43ec533d3ccd3a75.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击保存方法",
+        "time" : {
+          "start" : 1568683549421,
+          "stop" : 1568683550017,
+          "duration" : 596
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683549421,
+            "stop" : 1568683550017,
+            "duration" : 596
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683549421,
+              "stop" : 1568683549488,
+              "duration" : 67
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "8c046ac583cd1a9c",
+              "name" : "查找的元素:",
+              "source" : "8c046ac583cd1a9c.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683549488,
+              "stop" : 1568683549952,
+              "duration" : 464
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "145f030aa5dec38e",
+              "name" : "查找的元素:",
+              "source" : "145f030aa5dec38e.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683549953,
+              "stop" : 1568683549983,
+              "duration" : 30
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "960cf046b6c85d64",
+              "name" : "查找的元素:",
+              "source" : "960cf046b6c85d64.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "87875e935b0402e1",
+            "name" : "点击的元素:",
+            "source" : "87875e935b0402e1.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 46,
+      "hasContent" : true,
+      "stepsCount" : 61
+    }, {
+      "name" : "修改地址组合业务方法",
+      "time" : {
+        "start" : 1568683550017,
+        "stop" : 1568683571325,
+        "duration" : 21308
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击编辑方法",
+        "time" : {
+          "start" : 1568683550017,
+          "stop" : 1568683551123,
+          "duration" : 1106
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683550017,
+            "stop" : 1568683551123,
+            "duration" : 1106
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683550017,
+              "stop" : 1568683551017,
+              "duration" : 1000
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "9bd782ff0e7f405f",
+              "name" : "查找的元素:",
+              "source" : "9bd782ff0e7f405f.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683551017,
+              "stop" : 1568683551050,
+              "duration" : 33
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "c426655918299ce7",
+              "name" : "查找的元素:",
+              "source" : "c426655918299ce7.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683551050,
+              "stop" : 1568683551084,
+              "duration" : 34
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "4633a146ef97d821",
+              "name" : "查找的元素:",
+              "source" : "4633a146ef97d821.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "f7dcf4c7f5a98a69",
+            "name" : "点击的元素:",
+            "source" : "f7dcf4c7f5a98a69.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击修改方法",
+        "time" : {
+          "start" : 1568683551123,
+          "stop" : 1568683551273,
+          "duration" : 150
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "以坐标轻敲元素操作",
+          "time" : {
+            "start" : 1568683551123,
+            "stop" : 1568683551273,
+            "duration" : 150
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "3769b9ed83389d94",
+            "name" : "x=1085",
+            "source" : "3769b9ed83389d94.txt",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 1
+      }, {
+        "name" : "输入收件人方法",
+        "time" : {
+          "start" : 1568683551273,
+          "stop" : 1568683554522,
+          "duration" : 3249
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683551273,
+            "stop" : 1568683554522,
+            "duration" : 3249
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683551273,
+              "stop" : 1568683552466,
+              "duration" : 1193
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "b08dc30ec3f002ff",
+              "name" : "查找的元素:",
+              "source" : "b08dc30ec3f002ff.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683552466,
+              "stop" : 1568683552499,
+              "duration" : 33
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "5b0bee983766f7ec",
+              "name" : "查找的元素:",
+              "source" : "5b0bee983766f7ec.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683552557,
+              "stop" : 1568683552601,
+              "duration" : 44
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "6f184062fbcaff57",
+              "name" : "查找的元素:",
+              "source" : "6f184062fbcaff57.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "62d83821a387166c",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"71236e83-442a-4942-8cdf-2e3b949704ed\")>元素输入",
+            "source" : "62d83821a387166c.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入手机号方法",
+        "time" : {
+          "start" : 1568683554522,
+          "stop" : 1568683557188,
+          "duration" : 2666
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683554522,
+            "stop" : 1568683557188,
+            "duration" : 2666
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683554522,
+              "stop" : 1568683555033,
+              "duration" : 511
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "b9ba97966fcbebdd",
+              "name" : "查找的元素:",
+              "source" : "b9ba97966fcbebdd.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683555033,
+              "stop" : 1568683555068,
+              "duration" : 35
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "1759d2c5180a840b",
+              "name" : "查找的元素:",
+              "source" : "1759d2c5180a840b.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683555154,
+              "stop" : 1568683555200,
+              "duration" : 46
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "fb015c98c5708238",
+              "name" : "查找的元素:",
+              "source" : "fb015c98c5708238.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "78238f789f5cde76",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"a19bd47a-b02d-4a34-a842-1cb5489228df\")>元素输入",
+            "source" : "78238f789f5cde76.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "修改地址点击新增地址方法",
+        "time" : {
+          "start" : 1568683557188,
+          "stop" : 1568683557781,
+          "duration" : 593
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "轻敲元素操作",
+          "time" : {
+            "start" : 1568683557189,
+            "stop" : 1568683557781,
+            "duration" : 592
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683557189,
+              "stop" : 1568683557699,
+              "duration" : 510
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d2a962013443cf9e",
+              "name" : "查找的元素:",
+              "source" : "d2a962013443cf9e.txt",
+              "type" : "text/plain",
+              "size" : 44
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 2
+      }, {
+        "name" : "第一次用元素点击上海方法",
+        "time" : {
+          "start" : 1568683557781,
+          "stop" : 1568683561144,
+          "duration" : 3363
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683557781,
+            "stop" : 1568683561144,
+            "duration" : 3363
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683557782,
+              "stop" : 1568683560994,
+              "duration" : 3212
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "f7ad210740ebc3a3",
+              "name" : "查找的元素:",
+              "source" : "f7ad210740ebc3a3.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683560994,
+              "stop" : 1568683561045,
+              "duration" : 51
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "6c06920e86962d3f",
+              "name" : "查找的元素:",
+              "source" : "6c06920e86962d3f.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683561045,
+              "stop" : 1568683561095,
+              "duration" : 50
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "768775aa150f5804",
+              "name" : "查找的元素:",
+              "source" : "768775aa150f5804.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "94bab2ffe2d910ea",
+            "name" : "点击的元素:",
+            "source" : "94bab2ffe2d910ea.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "第二次用坐标点击上海方法",
+        "time" : {
+          "start" : 1568683564144,
+          "stop" : 1568683564273,
+          "duration" : 129
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "以坐标轻敲元素操作",
+          "time" : {
+            "start" : 1568683564144,
+            "stop" : 1568683564273,
+            "duration" : 129
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "d4d1ffde2d641a15",
+            "name" : "x=500",
+            "source" : "d4d1ffde2d641a15.txt",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 1
+      }, {
+        "name" : "点击长宁区方法",
+        "time" : {
+          "start" : 1568683564273,
+          "stop" : 1568683565314,
+          "duration" : 1041
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683564274,
+            "stop" : 1568683565314,
+            "duration" : 1040
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683564274,
+              "stop" : 1568683565133,
+              "duration" : 859
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "210010a062bdc307",
+              "name" : "查找的元素:",
+              "source" : "210010a062bdc307.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683565133,
+              "stop" : 1568683565190,
+              "duration" : 57
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d65bf866fc56af01",
+              "name" : "查找的元素:",
+              "source" : "d65bf866fc56af01.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683565191,
+              "stop" : 1568683565281,
+              "duration" : 90
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "9bf20697cd44bb4e",
+              "name" : "查找的元素:",
+              "source" : "9bf20697cd44bb4e.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "cdfda5c9aed9adc2",
+            "name" : "点击的元素:",
+            "source" : "cdfda5c9aed9adc2.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入详细地址方法",
+        "time" : {
+          "start" : 1568683565314,
+          "stop" : 1568683568105,
+          "duration" : 2791
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683565314,
+            "stop" : 1568683568105,
+            "duration" : 2791
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683565314,
+              "stop" : 1568683565947,
+              "duration" : 633
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "f59a722a2e130e4",
+              "name" : "查找的元素:",
+              "source" : "f59a722a2e130e4.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683565947,
+              "stop" : 1568683566000,
+              "duration" : 53
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "c35963e0a1268b6b",
+              "name" : "查找的元素:",
+              "source" : "c35963e0a1268b6b.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683566067,
+              "stop" : 1568683566115,
+              "duration" : 48
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "56955420afcfe103",
+              "name" : "查找的元素:",
+              "source" : "56955420afcfe103.txt",
+              "type" : "text/plain",
+              "size" : 52
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "5c12b72511dca7aa",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"f0f4f3c1-fbae-4582-a284-10ba76258ff1\")>元素输入",
+            "source" : "5c12b72511dca7aa.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "输入邮编方法",
+        "time" : {
+          "start" : 1568683568105,
+          "stop" : 1568683570702,
+          "duration" : 2597
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "输入的操作",
+          "time" : {
+            "start" : 1568683568105,
+            "stop" : 1568683570702,
+            "duration" : 2597
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683568105,
+              "stop" : 1568683568610,
+              "duration" : 505
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d840f5158f43c94",
+              "name" : "查找的元素:",
+              "source" : "d840f5158f43c94.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683568610,
+              "stop" : 1568683568651,
+              "duration" : 41
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "1384266128b74c5",
+              "name" : "查找的元素:",
+              "source" : "1384266128b74c5.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683568722,
+              "stop" : 1568683568763,
+              "duration" : 41
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "e4dc440ee5e8b894",
+              "name" : "查找的元素:",
+              "source" : "e4dc440ee5e8b894.txt",
+              "type" : "text/plain",
+              "size" : 45
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "b2b870451939e2ab",
+            "name" : "向<appium.webdriver.webelement.WebElement (session=\"ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4\", element=\"b352a97e-8b8d-4cdc-8a10-f08d08011983\")>元素输入",
+            "source" : "b2b870451939e2ab.txt",
+            "type" : "text/plain",
+            "size" : 15
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击保存方法",
+        "time" : {
+          "start" : 1568683570702,
+          "stop" : 1568683571325,
+          "duration" : 623
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683570702,
+            "stop" : 1568683571325,
+            "duration" : 623
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683570702,
+              "stop" : 1568683571212,
+              "duration" : 510
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "1c28fc5d857d1614",
+              "name" : "查找的元素:",
+              "source" : "1c28fc5d857d1614.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683571212,
+              "stop" : 1568683571261,
+              "duration" : 49
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "65148ce2a7e7a464",
+              "name" : "查找的元素:",
+              "source" : "65148ce2a7e7a464.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683571262,
+              "stop" : 1568683571296,
+              "duration" : 34
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "22ff95862a1b2b18",
+              "name" : "查找的元素:",
+              "source" : "22ff95862a1b2b18.txt",
+              "type" : "text/plain",
+              "size" : 39
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "55596dcf1c3fe83e",
+            "name" : "点击的元素:",
+            "source" : "55596dcf1c3fe83e.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 35,
+      "hasContent" : true,
+      "stepsCount" : 47
+    }, {
+      "name" : "删除地址组合业务方法",
+      "time" : {
+        "start" : 1568683571325,
+        "stop" : 1568683576626,
+        "duration" : 5301
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "点击编辑方法",
+        "time" : {
+          "start" : 1568683571325,
+          "stop" : 1568683572462,
+          "duration" : 1137
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683571326,
+            "stop" : 1568683572462,
+            "duration" : 1136
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683571326,
+              "stop" : 1568683572310,
+              "duration" : 984
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "d4e4d639dd52f61a",
+              "name" : "查找的元素:",
+              "source" : "d4e4d639dd52f61a.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683572310,
+              "stop" : 1568683572349,
+              "duration" : 39
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "4f0d4190a94ec152",
+              "name" : "查找的元素:",
+              "source" : "4f0d4190a94ec152.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683572350,
+              "stop" : 1568683572417,
+              "duration" : 67
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "4c874e48659a5f7e",
+              "name" : "查找的元素:",
+              "source" : "4c874e48659a5f7e.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "2ee3633f3e58d2c9",
+            "name" : "点击的元素:",
+            "source" : "2ee3633f3e58d2c9.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      }, {
+        "name" : "点击删除方法",
+        "time" : {
+          "start" : 1568683575463,
+          "stop" : 1568683575593,
+          "duration" : 130
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "以坐标轻敲元素操作",
+          "time" : {
+            "start" : 1568683575463,
+            "stop" : 1568683575593,
+            "duration" : 130
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "70264a46d0f1d79b",
+            "name" : "x=1359",
+            "source" : "70264a46d0f1d79b.txt",
+            "type" : "text/plain",
+            "size" : 5
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1,
+          "hasContent" : true,
+          "stepsCount" : 0
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1,
+        "hasContent" : true,
+        "stepsCount" : 1
+      }, {
+        "name" : "点击确认删除方法",
+        "time" : {
+          "start" : 1568683575593,
+          "stop" : 1568683576626,
+          "duration" : 1033
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "点击元素操作",
+          "time" : {
+            "start" : 1568683575593,
+            "stop" : 1568683576626,
+            "duration" : 1033
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683575593,
+              "stop" : 1568683576524,
+              "duration" : 931
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "7e264cdef3ff8cb7",
+              "name" : "查找的元素:",
+              "source" : "7e264cdef3ff8cb7.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683576524,
+              "stop" : 1568683576556,
+              "duration" : 32
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "ea6a0e65ebef2047",
+              "name" : "查找的元素:",
+              "source" : "ea6a0e65ebef2047.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          }, {
+            "name" : "定位元素操作",
+            "time" : {
+              "start" : 1568683576556,
+              "stop" : 1568683576590,
+              "duration" : 34
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ {
+              "uid" : "3f984f6e84b88954",
+              "name" : "查找的元素:",
+              "source" : "3f984f6e84b88954.txt",
+              "type" : "text/plain",
+              "size" : 48
+            } ],
+            "parameters" : [ ],
+            "shouldDisplayMessage" : false,
+            "attachmentsCount" : 1,
+            "hasContent" : true,
+            "stepsCount" : 0
+          } ],
+          "attachments" : [ {
+            "uid" : "a947db71d29a9c11",
+            "name" : "点击的元素:",
+            "source" : "a947db71d29a9c11.txt",
+            "type" : "text/plain",
+            "size" : 137
+          } ],
+          "parameters" : [ ],
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 4,
+          "hasContent" : true,
+          "stepsCount" : 3
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 4,
+        "hasContent" : true,
+        "stepsCount" : 4
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 9,
+      "hasContent" : true,
+      "stepsCount" : 12
+    } ],
+    "attachments" : [ {
+      "uid" : "183e50457a5fa29a",
+      "name" : "Captured log setup",
+      "source" : "183e50457a5fa29a.txt",
+      "type" : "text/plain",
+      "size" : 3573
+    }, {
+      "uid" : "46633a3c80528c60",
+      "name" : "Captured log call",
+      "source" : "46633a3c80528c60.txt",
+      "type" : "text/plain",
+      "size" : 11905
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 118,
+    "hasContent" : true,
+    "stepsCount" : 156
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DQNMCIN"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7016-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_address"
+  }, {
+    "name" : "testClass",
+    "value" : "test_address"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAddress.test_address"
+  }, {
+    "name" : "package",
+    "value" : "test_address"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "150bf3a2a1f7ecd1.json",
+  "parameterValues" : [ ]
+}

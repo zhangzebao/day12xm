@@ -1,0 +1,11 @@
+[ {
+  "uid" : "150bf3a2a1f7ecd1",
+  "name" : "TestAddress.test_address",
+  "time" : {
+    "start" : 1568683475916,
+    "stop" : 1568683576627,
+    "duration" : 100711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

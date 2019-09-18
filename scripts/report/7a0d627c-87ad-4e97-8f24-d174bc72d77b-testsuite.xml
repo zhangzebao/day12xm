@@ -1,0 +1,34 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1568553345061" stop="1568553345062">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1568553345062" status="broken" stop="1568553345062">
+      <name>test_address</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>test_address.py:5: in &lt;module&gt;
+    from page.page_address import PageAddress
+..\page\page_address.py:2: in &lt;module&gt;
+    from base.base import Base
+..\base\base.py:7: in &lt;module&gt;
+    log = GetLog.get_log()
+..\tools\get_log.py:19: in get_log
+    encoding="utf-8")
+C:\Users\zhangzebao\AppData\Local\Programs\Python\Python36-32\lib\logging\handlers.py:202: in __init__
+    BaseRotatingHandler.__init__(self, filename, 'a', encoding, delay)
+C:\Users\zhangzebao\AppData\Local\Programs\Python\Python36-32\lib\logging\handlers.py:57: in __init__
+    logging.FileHandler.__init__(self, filename, mode, encoding, delay)
+C:\Users\zhangzebao\AppData\Local\Programs\Python\Python36-32\lib\logging\__init__.py:1030: in __init__
+    StreamHandler.__init__(self, self._open())
+C:\Users\zhangzebao\AppData\Local\Programs\Python\Python36-32\lib\logging\__init__.py:1059: in _open
+    return open(self.baseFilename, self.mode, encoding=self.encoding)
+E   FileNotFoundError: [Errno 2] No such file or directory: 'D:\\新桌面\\day09项目\\scripts\\log\\bnal.log'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

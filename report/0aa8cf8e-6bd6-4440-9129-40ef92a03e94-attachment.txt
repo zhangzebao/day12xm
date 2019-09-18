@@ -1,0 +1,15 @@
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="6c98f9bb-9ef5-4659-bea2-c770351f1f52")>
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="6c98f9bb-9ef5-4659-bea2-c770351f1f52")>
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/img_close')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+page_login.py               93 INFO     [组合业务方法] 用户名:15190488353 密码:123456
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/tab_me')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/textView1')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/logon_button')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5

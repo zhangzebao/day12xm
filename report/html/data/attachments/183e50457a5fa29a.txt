@@ -1,0 +1,25 @@
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4")>
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4")>
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+base.py                     31 INFO     点击元素:<appium.webdriver.webelement.WebElement (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4", element="692cc4a4-2378-4753-b037-567724b69205")>
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+base.py                     31 INFO     点击元素:<appium.webdriver.webelement.WebElement (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4", element="1e2d7fc1-e638-44d1-9556-ac284613bb9f")>
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+base.py                     31 INFO     点击元素:<appium.webdriver.webelement.WebElement (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4", element="89f06590-adce-48f2-a178-7a3b307c5447")>
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+page_login.py               74 INFO     [组合业务方法] 用户名:15190488353 密码:123456
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+base.py                     31 INFO     点击元素:<appium.webdriver.webelement.WebElement (session="ac0e6a94-87a6-4fda-a544-a5ed4ca1a6c4", element="9f159e8a-d87f-4af4-a87f-473f0a207972")>
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5

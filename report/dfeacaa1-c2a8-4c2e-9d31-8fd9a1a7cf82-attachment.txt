@@ -1,0 +1,24 @@
+page_login.py               76 INFO     [组合业务方法] 用户名:15190488353 密码:123456
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/logon_button')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+base.py                     64 INFO     获取元素文本('id', 'com.yunmall.lc:id/tv_user_nikename')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tv_user_nikename') 超时时间:10 访问评率:0.5
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="685adf03-5d15-434f-a728-9ba0c4399e40")>
+base.py                     16 INFO     获取driver对象<appium.webdriver.webdriver.WebDriver (session="685adf03-5d15-434f-a728-9ba0c4399e40")>
+base.py                     64 INFO     获取元素文本('id', 'com.yunmall.lc:id/tv_user_nikename')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tv_user_nikename') 超时时间:10 访问评率:0.5
+page_login.py               84 INFO     正向用例退出业务方法
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/setting_notification') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/setting_modify_pwd') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/setting_logout')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/setting_logout') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_right_button') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/tab_me')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/textView1')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5

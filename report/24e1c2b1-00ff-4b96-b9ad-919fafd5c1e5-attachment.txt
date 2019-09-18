@@ -1,0 +1,15 @@
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/address_add_new_btn')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/address_province')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('xpath', "//*[contains(@text, '广东省')]")
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text, '广东省')]") 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('xpath', "//*[contains(@text, '广州市')]")
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text, '广州市')]") 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('xpath', "//*[contains(@text, '天河区')]")
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text, '天河区')]") 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('xpath', "//*[contains(@text,'昌平区')]")
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5

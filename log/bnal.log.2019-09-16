@@ -1,0 +1,442 @@
+2019-09-16 09:55:40,162 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="88d4d71c-5957-4c17-a8ae-05dcad603bcb")>
+2019-09-16 09:55:40,167 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="88d4d71c-5957-4c17-a8ae-05dcad603bcb")>
+2019-09-16 09:55:47,835 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:00:37,908 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="2dc29e2c-a8a8-4e2d-b0cf-ce660b9733d0")>
+2019-09-16 10:00:37,909 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="2dc29e2c-a8a8-4e2d-b0cf-ce660b9733d0")>
+2019-09-16 10:00:44,863 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:13:27,618 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="4c6639c8-73ad-4798-8667-5d77d91d678a")>
+2019-09-16 10:13:27,619 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="4c6639c8-73ad-4798-8667-5d77d91d678a")>
+2019-09-16 10:13:32,020 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:19:28,469 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="9308433b-b750-4023-97a4-5d70c22300a3")>
+2019-09-16 10:19:28,470 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="9308433b-b750-4023-97a4-5d70c22300a3")>
+2019-09-16 10:19:33,103 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:30:54,591 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="cd911391-2741-4dbd-a57f-248ff0882b8f")>
+2019-09-16 10:30:54,592 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="cd911391-2741-4dbd-a57f-248ff0882b8f")>
+2019-09-16 10:30:59,679 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:40:29,379 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="d7e200aa-11f9-44b5-9a2c-3b4ff479d887")>
+2019-09-16 10:40:29,380 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="d7e200aa-11f9-44b5-9a2c-3b4ff479d887")>
+2019-09-16 10:40:33,498 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:47:35,214 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="429bd04f-c02a-4ad1-8c82-e265becbd156")>
+2019-09-16 10:47:35,215 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="429bd04f-c02a-4ad1-8c82-e265becbd156")>
+2019-09-16 10:47:39,068 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:50:16,472 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8e0df1b3-3bf8-4be1-84cd-4584a0033cdc")>
+2019-09-16 10:50:16,473 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8e0df1b3-3bf8-4be1-84cd-4584a0033cdc")>
+2019-09-16 10:50:20,564 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:51:50,673 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8f4f2b57-6a22-4085-9e22-1297e159e8f6")>
+2019-09-16 10:51:50,674 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8f4f2b57-6a22-4085-9e22-1297e159e8f6")>
+2019-09-16 10:51:55,195 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:53:14,153 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="5b736069-2883-4795-92ff-ee0ac8a210cb")>
+2019-09-16 10:53:14,154 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="5b736069-2883-4795-92ff-ee0ac8a210cb")>
+2019-09-16 10:53:18,737 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:55:39,484 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="07e98184-bc02-4a69-864d-cd0cab5154c3")>
+2019-09-16 10:55:39,484 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="07e98184-bc02-4a69-864d-cd0cab5154c3")>
+2019-09-16 10:55:43,351 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:58:06,700 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="cdee84de-7974-46cb-813d-fc277b336758")>
+2019-09-16 10:58:06,702 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="cdee84de-7974-46cb-813d-fc277b336758")>
+2019-09-16 10:58:11,857 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 10:59:44,010 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="9cefef02-362b-42f7-bc74-30e5806ca23b")>
+2019-09-16 10:59:44,011 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="9cefef02-362b-42f7-bc74-30e5806ca23b")>
+2019-09-16 10:59:48,541 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:04:46,632 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="e1620765-4656-4458-8a5c-28e9e68e834c")>
+2019-09-16 11:04:46,633 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="e1620765-4656-4458-8a5c-28e9e68e834c")>
+2019-09-16 11:04:51,756 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:08:09,415 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8252d74e-ecc2-4784-b0eb-c0447de6f678")>
+2019-09-16 11:08:09,416 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="8252d74e-ecc2-4784-b0eb-c0447de6f678")>
+2019-09-16 11:08:14,425 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:11:26,432 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="de8291d5-3e3c-4b4f-86c9-687c2dab2982")>
+2019-09-16 11:11:26,433 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="de8291d5-3e3c-4b4f-86c9-687c2dab2982")>
+2019-09-16 11:11:31,207 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:14:42,539 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="b17d7007-bd76-4ddd-8f0e-290f8cc4202e")>
+2019-09-16 11:14:42,540 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="b17d7007-bd76-4ddd-8f0e-290f8cc4202e")>
+2019-09-16 11:14:47,861 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:16:14,380 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="bae58b84-b309-40c0-9d45-c2f417fca6c9")>
+2019-09-16 11:16:14,382 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="bae58b84-b309-40c0-9d45-c2f417fca6c9")>
+2019-09-16 11:16:18,263 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:19:32,605 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="3f06e058-d02c-4329-bf6a-2c76730f16f2")>
+2019-09-16 11:19:32,607 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="3f06e058-d02c-4329-bf6a-2c76730f16f2")>
+2019-09-16 11:19:36,761 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:21:58,747 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="95694f92-4e86-4675-a32a-f0576e3a1610")>
+2019-09-16 11:21:58,748 INFO [root] [base.py (__init__:14] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="95694f92-4e86-4675-a32a-f0576e3a1610")>
+2019-09-16 11:22:03,121 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:26:36,830 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="87d2d79d-8c44-4b81-bfa0-2a75b75aef9c")>
+2019-09-16 11:26:36,831 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="87d2d79d-8c44-4b81-bfa0-2a75b75aef9c")>
+2019-09-16 11:26:41,282 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:37:29,866 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="1c26d59d-5914-4afb-aa6b-7b475fedcc9e")>
+2019-09-16 11:37:29,866 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="1c26d59d-5914-4afb-aa6b-7b475fedcc9e")>
+2019-09-16 11:37:33,955 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:40:00,419 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0c7bb5e4-370f-49ed-9075-5676ce01dc83")>
+2019-09-16 11:40:00,420 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0c7bb5e4-370f-49ed-9075-5676ce01dc83")>
+2019-09-16 11:40:05,279 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 11:49:59,844 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="fca565b3-6d89-44b6-91c1-06abcf01b1de")>
+2019-09-16 11:49:59,845 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="fca565b3-6d89-44b6-91c1-06abcf01b1de")>
+2019-09-16 11:50:04,117 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 12:57:39,640 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="6d9672ba-2de6-4446-a41c-8f6065f87318")>
+2019-09-16 12:57:39,641 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="6d9672ba-2de6-4446-a41c-8f6065f87318")>
+2019-09-16 12:57:44,576 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:00:28,269 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="afbd0390-76dc-4c1e-8336-bf8ee6ca8c49")>
+2019-09-16 13:00:28,270 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="afbd0390-76dc-4c1e-8336-bf8ee6ca8c49")>
+2019-09-16 13:03:03,886 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="17520226-fbd3-4e67-99bc-a3338c2794f2")>
+2019-09-16 13:03:03,887 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="17520226-fbd3-4e67-99bc-a3338c2794f2")>
+2019-09-16 13:03:09,224 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:05:39,558 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="d7c16972-338e-48ab-b711-567a31007528")>
+2019-09-16 13:05:39,559 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="d7c16972-338e-48ab-b711-567a31007528")>
+2019-09-16 13:05:43,760 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:12:13,710 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="af25583e-eca9-4370-8a7e-76d545ec5a20")>
+2019-09-16 13:12:13,711 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="af25583e-eca9-4370-8a7e-76d545ec5a20")>
+2019-09-16 13:13:02,261 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="a5263c83-6cce-4bd2-a0c6-65f694762bf4")>
+2019-09-16 13:13:02,262 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="a5263c83-6cce-4bd2-a0c6-65f694762bf4")>
+2019-09-16 13:13:07,687 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:13:55,054 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="c46e651c-048b-4eb8-ab56-7d680fdc92bc")>
+2019-09-16 13:13:55,055 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="c46e651c-048b-4eb8-ab56-7d680fdc92bc")>
+2019-09-16 13:14:00,150 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:17:29,751 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="be719cfe-c62b-4d29-a231-abb3e260ea8e")>
+2019-09-16 13:17:29,751 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="be719cfe-c62b-4d29-a231-abb3e260ea8e")>
+2019-09-16 13:17:34,282 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:20:07,966 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="426f403b-e4ba-47f5-8139-76b94e25e405")>
+2019-09-16 13:20:07,967 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="426f403b-e4ba-47f5-8139-76b94e25e405")>
+2019-09-16 13:20:13,150 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:24:28,012 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="44919e00-cda6-4be0-ad81-4a66a4232121")>
+2019-09-16 13:24:28,013 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="44919e00-cda6-4be0-ad81-4a66a4232121")>
+2019-09-16 13:24:32,150 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:30:34,822 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="805c8644-a912-42ed-b1b9-785b97ae1ab8")>
+2019-09-16 13:30:34,822 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="805c8644-a912-42ed-b1b9-785b97ae1ab8")>
+2019-09-16 13:30:39,583 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:40:57,839 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="63f2158a-c8d4-44da-9327-9c5bfb266c4c")>
+2019-09-16 13:40:57,840 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="63f2158a-c8d4-44da-9327-9c5bfb266c4c")>
+2019-09-16 13:41:03,322 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:44:21,721 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0672aece-a288-4f40-9a61-19b9d025f997")>
+2019-09-16 13:44:21,722 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0672aece-a288-4f40-9a61-19b9d025f997")>
+2019-09-16 13:44:26,258 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:47:21,007 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="196ed072-2195-4f0f-9918-ba8a81757746")>
+2019-09-16 13:47:21,008 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="196ed072-2195-4f0f-9918-ba8a81757746")>
+2019-09-16 13:47:24,869 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:48:58,426 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="29468f6c-540b-49cb-900b-c6791448d149")>
+2019-09-16 13:48:58,428 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="29468f6c-540b-49cb-900b-c6791448d149")>
+2019-09-16 13:49:03,379 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:54:51,118 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="762305f8-cfc8-48b2-8d85-c7ebecee7c4b")>
+2019-09-16 13:54:51,119 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="762305f8-cfc8-48b2-8d85-c7ebecee7c4b")>
+2019-09-16 13:54:55,096 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 13:58:31,592 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0beb9263-5ad8-42f8-b799-2a3212fc8656")>
+2019-09-16 13:58:31,593 INFO [root] [base.py (__init__:15] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="0beb9263-5ad8-42f8-b799-2a3212fc8656")>
+2019-09-16 13:58:35,739 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 14:34:28,859 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="93762c36-0c15-493e-b372-ed06bc4f1de2")>
+2019-09-16 14:34:28,860 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="93762c36-0c15-493e-b372-ed06bc4f1de2")>
+2019-09-16 14:34:28,861 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:29,841 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:29,883 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="6b5c42fd-aab8-49ec-a3c2-0ac688c1095c")>
+2019-09-16 14:34:29,884 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:30,219 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:32,167 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:32,205 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="0fa3cb89-3129-4666-a15f-d14f7b1952f9")>
+2019-09-16 14:34:32,206 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:32,288 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:34,787 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:35,217 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="60ffe2b9-ffa3-4c97-8f4c-63485cada2c7")>
+2019-09-16 14:34:35,217 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:35,285 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 14:34:35,285 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:35,891 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:36,007 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:37,716 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:38,231 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:38,323 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:41,185 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:41,688 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:41,724 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="a511e8ff-f893-47bf-9f33-96658d6e2d5f")>
+2019-09-16 14:34:41,724 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:44,791 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:44,836 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:44,875 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="9e6c746e-ad71-40e7-af36-cc19070b8ce2")>
+2019-09-16 14:34:44,875 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:44,975 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:46,514 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:50,779 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:50,811 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="b088ab22-db89-4702-925f-02afa8ff360d")>
+2019-09-16 14:34:50,812 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:50,881 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:55,178 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:55,307 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:57,133 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:57,645 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:57,766 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:34:59,381 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:00,213 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:00,245 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="1e17e1d3-3d02-450e-9c97-e832161f1f1b")>
+2019-09-16 14:35:00,245 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:00,326 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:04,756 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:04,823 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="a4279812-800e-40b0-986d-39bf8b25c1af")>
+2019-09-16 14:35:04,823 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:04,910 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:05,793 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:06,668 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:06,731 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="fd9605ee-0e7e-4b4c-a8f7-58978f417339")>
+2019-09-16 14:35:06,731 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:06,819 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:07,439 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:07,555 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:09,193 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:09,708 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:09,864 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:11,463 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:11,969 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:12,007 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="48c5f18c-3abc-4c78-8e19-44df9ff9e645")>
+2019-09-16 14:35:12,008 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:12,089 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:12,156 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:12,621 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="cfa42c9e-330e-40e3-a965-87ad4b9a77f8")>
+2019-09-16 14:35:12,622 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:12,689 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:13,687 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:13,720 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="32e1610b-a8e4-4ebc-a8ef-53372d65fc25")>
+2019-09-16 14:35:13,720 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:13,788 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1085, y=428
+2019-09-16 14:35:13,931 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:15,119 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:15,256 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:17,291 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:17,802 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:17,933 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:20,026 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:20,618 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:23,784 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:23,838 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="141e61eb-1711-4820-a821-e2cc1f222115")>
+2019-09-16 14:35:23,838 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:26,939 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=500, y=300
+2019-09-16 14:35:27,071 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:27,935 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:28,017 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="e9b41dc2-8d51-4a0b-8f58-8301b10bc451")>
+2019-09-16 14:35:28,018 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:35:28,108 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:28,735 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:28,886 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:30,955 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:31,465 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:31,592 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:33,520 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:34,029 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:34,064 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="f9e08bea-3c10-47fc-bceb-5921f1bc21c7")>
+2019-09-16 14:35:34,064 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:34,145 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:35,097 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:35,132 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="f494de2f-ada4-4e9c-a80a-45f74c2366aa")>
+2019-09-16 14:35:35,132 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:38,218 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1359, y=383
+2019-09-16 14:35:38,349 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:39,261 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:35:39,294 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="93762c36-0c15-493e-b372-ed06bc4f1de2", element="ce227852-8832-4ef1-8208-7aa51bdee53f")>
+2019-09-16 14:35:39,294 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:40,637 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="3bf98986-73f8-42bf-9f29-21d773388530")>
+2019-09-16 14:49:40,638 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="3bf98986-73f8-42bf-9f29-21d773388530")>
+2019-09-16 14:49:40,639 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:41,600 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:41,634 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="4f67463f-cf66-49b2-bac9-528307b81425")>
+2019-09-16 14:49:41,634 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:41,958 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:43,656 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:44,222 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="92a0420d-7cd0-499d-8f6d-05a02316d162")>
+2019-09-16 14:49:44,222 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:44,305 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:46,126 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:46,177 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="d04fff2c-67e7-4b45-a0c8-83f0a36db33a")>
+2019-09-16 14:49:46,178 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:46,281 INFO [root] [page_login.py (page_login:59] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 14:49:46,282 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:46,804 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:46,929 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:48,606 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:49,118 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:49,233 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:52,204 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:52,705 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:52,741 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="88d298d1-0bc4-426c-adb3-752f53c5d51d")>
+2019-09-16 14:49:52,742 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:55,805 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:55,866 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:55,902 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="d7b9b7de-4c5c-4667-9be7-c56df0b7e236")>
+2019-09-16 14:49:55,903 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:56,002 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间:10 访问评率:0.5
+2019-09-16 14:49:57,488 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:01,197 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:01,229 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="55a41135-bfed-4874-b7d5-ba52d82a64be")>
+2019-09-16 14:50:01,230 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:01,317 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:04,701 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:05,541 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:07,216 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:07,730 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:07,848 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:09,486 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:09,996 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:10,034 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="dbfe2b8d-3deb-4dcf-9e5b-2c8b217495f7")>
+2019-09-16 14:50:10,035 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:10,114 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:13,915 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:13,973 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="9d1e53ac-379c-4aed-89d0-748067f3d431")>
+2019-09-16 14:50:13,974 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:14,074 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:14,962 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:15,829 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:15,882 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="99c0dd74-05e4-4d25-b044-5aa7e29bd01c")>
+2019-09-16 14:50:15,883 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:15,980 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:16,626 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:16,744 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:18,337 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:18,842 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:18,984 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:20,561 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,076 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,111 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="c61b91c5-b543-4af2-92e0-65fe573420e8")>
+2019-09-16 14:50:21,112 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,176 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,244 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,707 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="344903e4-3543-4998-b8b1-8d226959e3f7")>
+2019-09-16 14:50:21,707 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:21,783 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:22,809 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:22,841 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="e4c3551d-91ad-4fce-a9e5-e7e3d9ee0a39")>
+2019-09-16 14:50:22,841 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:22,907 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1085, y=428
+2019-09-16 14:50:23,053 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:24,270 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:24,384 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:27,025 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:27,541 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:27,650 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:29,680 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:30,274 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:33,452 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:33,508 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="4c9cd778-6c89-429f-9cbc-fc28b769fed7")>
+2019-09-16 14:50:33,509 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:36,604 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=500, y=300
+2019-09-16 14:50:36,733 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:37,605 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:37,654 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="50f9c106-80c1-4708-a6a5-e0556e22dde2")>
+2019-09-16 14:50:37,655 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 14:50:37,756 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:38,383 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:38,533 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:40,509 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:41,069 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:41,205 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:43,089 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:43,600 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:43,636 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="56cc3f46-c259-4ff2-a0d6-3a661bbecec1")>
+2019-09-16 14:50:43,637 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:43,715 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:44,750 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:44,800 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="2c6754ad-a4dd-4821-99a9-6ea89af1d35e")>
+2019-09-16 14:50:44,800 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:47,867 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1359, y=383
+2019-09-16 14:50:47,998 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:48,914 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 14:50:48,945 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="3bf98986-73f8-42bf-9f29-21d773388530", element="8103a04d-6394-4982-af19-a94c534412c6")>
+2019-09-16 14:50:48,946 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:53,825 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82")>
+2019-09-16 15:00:53,826 INFO [root] [base.py (__init__:16] - 获取driver对象<appium.webdriver.webdriver.WebDriver (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82")>
+2019-09-16 15:00:53,827 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:54,776 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:55,057 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="cc2e6122-c159-44b1-962d-012df67a45cf")>
+2019-09-16 15:00:55,058 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/img_close') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:55,195 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:56,771 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:56,811 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="4a4c3a67-2178-4f3b-88c0-bda25df4e355")>
+2019-09-16 15:00:56,812 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/tab_me') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:56,945 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:58,006 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:58,539 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="f0a590a8-e7a1-4b61-ba23-fbadba4b74bd")>
+2019-09-16 15:00:58,539 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/textView1') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:58,632 INFO [root] [page_login.py (page_login:74] - [组合业务方法] 用户名:15190488353 密码:123456
+2019-09-16 15:00:58,633 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:59,156 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:00:59,264 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:01,079 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:01,594 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:01,682 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:05,005 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:05,501 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:05,542 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="f46a88e3-9550-415e-be7b-20c8bf2933cf")>
+2019-09-16 15:01:05,543 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:08,618 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:08,669 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:08,704 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="c2f53965-bbb9-4f72-a667-919ca51e6c1b")>
+2019-09-16 15:01:08,704 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:08,804 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:10,275 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:11,617 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:11,649 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="de654722-9514-4df4-81e8-bf6fa4ee80b0")>
+2019-09-16 15:01:11,649 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:11,719 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:13,057 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:13,604 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:15,487 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:15,998 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:16,120 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:17,706 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:18,214 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:18,265 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="a1568b21-f2b0-4e6d-a886-e2585dd24f09")>
+2019-09-16 15:01:18,265 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:18,330 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:22,330 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:22,379 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="f1dd9f4f-5d39-4045-8841-6e0692e84b2d")>
+2019-09-16 15:01:22,380 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:22,466 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'北京市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:23,342 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:24,221 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:24,283 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="81563072-1edf-4423-870d-58c1d40a4bb6")>
+2019-09-16 15:01:24,284 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'昌平区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:24,396 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:25,064 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:25,179 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:26,855 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:27,363 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:27,473 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:28,999 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:29,511 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:29,552 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="95357edc-e146-47ac-ace7-183d4a8750e8")>
+2019-09-16 15:01:29,553 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_default') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:29,629 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:29,695 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:30,159 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="00c02631-0172-4b27-8899-a36cf3c52dd7")>
+2019-09-16 15:01:30,159 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:30,227 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:31,211 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:31,244 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="25cc9542-6040-4841-8cf8-cbe099c5c309")>
+2019-09-16 15:01:31,245 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:31,319 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1085, y=428
+2019-09-16 15:01:31,459 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:32,659 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:32,752 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:34,866 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:35,377 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:35,483 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_add_phone') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:37,630 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_province') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:38,226 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:41,030 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:41,077 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="99210d64-fcd4-4cda-9b78-b1820cac2d61")>
+2019-09-16 15:01:41,077 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'上海市')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:44,163 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=500, y=300
+2019-09-16 15:01:44,296 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:45,165 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:45,224 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="6ef30177-8953-495c-bd86-2dfc47c4d781")>
+2019-09-16 15:01:45,225 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('xpath', "//*[contains(@text,'长宁区')]") 超时时间:10 访问评率:0.5
+2019-09-16 15:01:45,341 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:45,976 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:46,124 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:48,129 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:48,639 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:48,755 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/address_post_code') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:50,711 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:51,221 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:51,262 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="63e435e5-f5c5-430b-8147-3c6ef9d62a8e")>
+2019-09-16 15:01:51,263 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/button_send') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:51,337 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:52,372 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:52,405 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="c7466f90-8b22-40e1-b9ec-0344c5d0cf8d")>
+2019-09-16 15:01:52,405 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:55,491 INFO [root] [base.py (base_tap_xy:76] - 应用坐标点击元素, x=1359, y=383
+2019-09-16 15:01:55,621 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:56,538 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5
+2019-09-16 15:01:56,568 INFO [root] [base.py (base_click_func:31] - 点击元素:<appium.webdriver.webelement.WebElement (session="13014182-9a1f-4f27-b813-b7f4ce8e0c82", element="db67dc1a-0aca-4d90-98c6-5b8036c6b461")>
+2019-09-16 15:01:56,568 INFO [root] [base.py (base_find_element:23] - 正在查找元素:('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间:10 访问评率:0.5

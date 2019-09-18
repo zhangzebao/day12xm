@@ -1,0 +1,7 @@
+page_login.py               76 INFO     [组合业务方法] 用户名:15190488352 密码:123456
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间:10 访问评率:0.5
+base.py                     47 INFO     点击元素:('id', 'com.yunmall.lc:id/logon_button')
+base.py                     23 INFO     正在查找元素:('id', 'com.yunmall.lc:id/logon_button') 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text,'此用户不存在')]") 超时时间:10 访问评率:0.5
+base.py                     23 INFO     正在查找元素:('xpath', "//*[contains(@text,'此用户不存在')]") 超时时间:10 访问评率:0.5

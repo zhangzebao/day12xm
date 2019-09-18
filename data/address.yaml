@@ -1,0 +1,16 @@
+add_address:
+  receipt: "张三"
+  phone: "15100001111"
+  address: "TDB云集中心"
+  code: "024517"
+  province: "广东省"
+  city: "广州市"
+  area: "天河区"
+update_address:
+  receipt: "李四"
+  phone: "15122223333"
+  address: "TDB云集对面"
+  code: "024500"
+  province: "江苏省"
+  city: "南京市"
+  area: "玄武区"

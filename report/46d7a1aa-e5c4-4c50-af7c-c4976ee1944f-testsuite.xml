@@ -1,0 +1,666 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1568779282167" stop="1568779375780">
+  <name>test02_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1568779282167" status="failed" stop="1568779354874">
+      <name>TestAddress.test01_address[\u5f20\u4e09-15100001111-TDB\u4e91\u96c6\u4e2d\u5fc3-024517-\u5e7f\u4e1c\u7701-\u5e7f\u5dde\u5e02-\u5929\u6cb3\u533a]</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;test02_address.TestAddress object at 0x01119DD0&gt;, receipt = '张三', phone = '15100001111', address = 'TDB云集中心', code = '024517'
+province = '广东省', city = '广州市', area = '天河区'
+
+    @pytest.mark.parametrize("receipt, phone, address, code, province, city, area", build_data("add_address"))
+    def test01_address(self, receipt, phone, address, code, province, city, area):
+        # 新增地址
+&gt;       self.page_address.page_add_address(receipt, phone, address, code, province, city, area)
+
+scripts\test02_address.py:34: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_address.py:144: in page_add_address
+    self.page_click_address_chang_ping()
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_address.py:58: in page_click_address_chang_ping
+    self.base_click_func(page.address_chang_ping)
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:48: in base_click_func
+    element = self.base_find_element(loc)
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:25: in base_find_element
+    .until(lambda x: x.find_element(*loc)))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="6c98f9bb-9ef5-4659-bea2-c770351f1f52")&gt;
+method = &lt;function Base.base_find_element.&lt;locals&gt;.&lt;lambda&gt; at 0x011398A0&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+        return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="0aa8cf8e-6bd6-4440-9129-40ef92a03e94-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="24e1c2b1-00ff-4b96-b9ad-919fafd5c1e5-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13764-MainThread"/>
+        <label name="host" value="DESKTOP-DQNMCIN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1568779282170" status="passed" stop="1568779311877">
+          <name>初始化驱动对象</name>
+          <title>初始化驱动对象</title>
+          <attachments>
+            <attachment source="5c864677-1f96-4881-ade2-bf26bf947cc1-attachment.txt" title="获取driver对象:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1568779311877" status="passed" stop="1568779311878">
+          <name>初始化驱动对象</name>
+          <title>初始化驱动对象</title>
+          <attachments>
+            <attachment source="9cced2cf-04e1-4651-b6a7-b6b3d4c73796-attachment.txt" title="获取driver对象:" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1568779311878" status="passed" stop="1568779312948">
+          <name>不更新方法</name>
+          <title>不更新方法</title>
+          <attachments/>
+          <steps>
+            <step start="1568779311878" status="passed" stop="1568779312948">
+              <name>点击元素操作</name>
+              <title>点击元素操作</title>
+              <attachments>
+                <attachment source="d19b7e21-a0cd-4dec-a782-b468c2e56a2c-attachment.txt" title="点击的元素:" type="text/plain"/>
+              </attachments>
+              <steps>
+                <step start="1568779311878" status="passed" stop="1568779312896">
+                  <name>定位元素操作</name>
+                  <title>定位元素操作</title>
+                  <attachments>
+                    <attachment source="5859ccf7-5fad-427b-928b-46607afb91c9-attachment.txt" title="查找的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1568779312948" status="passed" stop="1568779326737">
+          <name>登录组合业务方法</name>
+          <title>登录组合业务方法</title>
+          <attachments/>
+          <steps>
+            <step start="1568779312949" status="passed" stop="1568779315192">
+              <name>点击我方法</name>
+              <title>点击我方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779312949" status="passed" stop="1568779315192">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="4c648206-ba16-4c71-a0ef-4be3062f46f0-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779312949" status="passed" stop="1568779315157">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="96b8a1df-4e5b-48ee-9fd7-19239bbc1a72-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779315192" status="passed" stop="1568779317091">
+              <name>点击已有账号去登陆方法</name>
+              <title>点击已有账号去登陆方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779315192" status="passed" stop="1568779317091">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="e6d70878-09d8-4359-b3c7-6265f304cb2d-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779315193" status="passed" stop="1568779317034">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="112e88bc-50c3-4589-87ba-3f78e73f0457-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779317091" status="passed" stop="1568779319375">
+              <name>输入用户名方法</name>
+              <title>输入用户名方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779317091" status="passed" stop="1568779319375">
+                  <name>输入的操作</name>
+                  <title>输入的操作</title>
+                  <attachments>
+                    <attachment source="2932946a-0aed-40a8-a298-a8a6eeeda9ca-attachment.txt" title="向('id', 'com.yunmall.lc:id/logon_account_textview')元素输入" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779317155" status="passed" stop="1568779317660">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="f2527039-b890-4c8c-979e-9dd491559662-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779319375" status="passed" stop="1568779322740">
+              <name>输入密码方法</name>
+              <title>输入密码方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779319376" status="passed" stop="1568779322740">
+                  <name>输入的操作</name>
+                  <title>输入的操作</title>
+                  <attachments>
+                    <attachment source="1abc00af-1cb2-49c4-acc7-cfed824b8559-attachment.txt" title="向('id', 'com.yunmall.lc:id/logon_password_textview')元素输入" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779319410" status="passed" stop="1568779319898">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="b5dc3c97-d9ea-4fe0-afae-786c87496d66-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779322740" status="passed" stop="1568779323291">
+              <name>点击登陆方法</name>
+              <title>点击登陆方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779322740" status="passed" stop="1568779323291">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="de8adfd7-ca47-41d1-b3fa-1a567a5ab10d-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779322741" status="passed" stop="1568779323256">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="902883c3-b673-447a-8bf1-9ab4ebd55be8-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779326291" status="passed" stop="1568779326737">
+              <name>点击设置方法</name>
+              <title>点击设置方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779326291" status="passed" stop="1568779326737">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="8cf5663f-98bb-4de1-9cb0-380d341791e9-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779326291" status="passed" stop="1568779326706">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="6107f418-3b7e-46bf-aca6-20e740a1a332-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1568779326739" status="failed" stop="1568779354774">
+          <name>新增地址组合业务方法</name>
+          <title>新增地址组合业务方法</title>
+          <attachments/>
+          <steps>
+            <step start="1568779326739" status="passed" stop="1568779328241">
+              <name>点击地址管理方法</name>
+              <title>点击地址管理方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779326739" status="passed" stop="1568779328241">
+                  <name>轻敲元素操作</name>
+                  <title>轻敲元素操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1568779326739" status="passed" stop="1568779328116">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="7b5a8646-291d-4856-9697-b49d36ae21e8-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779328241" status="passed" stop="1568779329672">
+              <name>点击新增地址方法</name>
+              <title>点击新增地址方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779328241" status="passed" stop="1568779329672">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="8903e4b2-ce80-4da0-851b-e7c1e604bb3e-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779328241" status="passed" stop="1568779329636">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="3742b243-f9e1-452e-9c42-b548250006be-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779329672" status="passed" stop="1568779335472">
+              <name>输入收件人方法</name>
+              <title>输入收件人方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779329672" status="passed" stop="1568779335472">
+                  <name>输入的操作</name>
+                  <title>输入的操作</title>
+                  <attachments>
+                    <attachment source="fb820225-cdd1-43c7-973b-537c29c8b9ac-attachment.txt" title="向('id', 'com.yunmall.lc:id/address_receipt_name')元素输入" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779329734" status="passed" stop="1568779333701">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="e62327e4-e706-4e53-badd-4186ee10af8d-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779335472" status="passed" stop="1568779337586">
+              <name>输入手机号方法</name>
+              <title>输入手机号方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779335472" status="passed" stop="1568779337586">
+                  <name>输入的操作</name>
+                  <title>输入的操作</title>
+                  <attachments>
+                    <attachment source="9c0ca11c-8774-443b-95ef-d531320717a3-attachment.txt" title="向('id', 'com.yunmall.lc:id/address_add_phone')元素输入" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779335520" status="passed" stop="1568779335991">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="9ef9057a-6a7f-4e01-8afe-58184b4b85f9-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779337586" status="passed" stop="1568779338137">
+              <name>点击元素操作</name>
+              <title>点击元素操作</title>
+              <attachments>
+                <attachment source="a3977bc1-babb-413d-893e-116d94af68fb-attachment.txt" title="点击的元素:" type="text/plain"/>
+              </attachments>
+              <steps>
+                <step start="1568779337586" status="passed" stop="1568779338100">
+                  <name>定位元素操作</name>
+                  <title>定位元素操作</title>
+                  <attachments>
+                    <attachment source="cd3ab4c1-5991-4908-9297-b322efc5fc64-attachment.txt" title="查找的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779338137" status="passed" stop="1568779342852">
+              <name>以文本点击元素操作</name>
+              <title>以文本点击元素操作</title>
+              <attachments/>
+              <steps>
+                <step start="1568779338138" status="passed" stop="1568779342852">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="fb230798-dcbf-4598-8069-d6fc8e839d5f-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779338138" status="passed" stop="1568779342794">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="a7d07ef5-b8e4-4209-94d5-84706880aa2c-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779342852" status="passed" stop="1568779343782">
+              <name>以文本点击元素操作</name>
+              <title>以文本点击元素操作</title>
+              <attachments/>
+              <steps>
+                <step start="1568779342852" status="passed" stop="1568779343782">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="9c8e0580-2b66-40ba-b905-b35b90cf20fa-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779342853" status="passed" stop="1568779343733">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="239b5ef6-8712-4f9e-8a0c-a26824f041c4-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779343782" status="passed" stop="1568779344720">
+              <name>以文本点击元素操作</name>
+              <title>以文本点击元素操作</title>
+              <attachments/>
+              <steps>
+                <step start="1568779343783" status="passed" stop="1568779344720">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="a46cbfd1-ad94-4fcb-93fb-540e5fe7a405-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779343783" status="passed" stop="1568779344685">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="8bc2a36d-4f5e-404c-b33c-026d129ae965-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1568779344720" status="failed" stop="1568779354774">
+              <name>点击昌平区方法</name>
+              <title>点击昌平区方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779344720" status="failed" stop="1568779354774">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="df7d366a-afe1-4d55-89a4-dad9587b16bf-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779344720" status="failed" stop="1568779354774">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="f33d46aa-1bde-45a6-b799-c4dc36301233-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1568779355018" status="failed" stop="1568779365554">
+      <name>TestAddress.test02_update_address[\u5f20\u4e09-15100001111-TDB\u4e91\u96c6\u4e2d\u5fc3-024517-\u5e7f\u4e1c\u7701-\u5e7f\u5dde\u5e02-\u5929\u6cb3\u533a]</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;test02_address.TestAddress object at 0x0116BA10&gt;, receipt = '张三', phone = '15100001111', address = 'TDB云集中心', code = '024517'
+province = '广东省', city = '广州市', area = '天河区'
+
+    @pytest.mark.parametrize("receipt, phone, address, code, province, city, area", build_data("add_address"))
+    def test02_update_address(self, receipt, phone, address, code, province, city, area):
+        # 修改地址
+&gt;       self.page_address.page_update_address(receipt, phone, address, code, province, city, area)
+
+scripts\test02_address.py:46: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_address.py:153: in page_update_address
+    self.page_click_address_edit()
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_address.py:83: in page_click_address_edit
+    self.base_click_func(page.address_edit)
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:48: in base_click_func
+    element = self.base_find_element(loc)
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:25: in base_find_element
+    .until(lambda x: x.find_element(*loc)))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="6c98f9bb-9ef5-4659-bea2-c770351f1f52")&gt;
+method = &lt;function Base.base_find_element.&lt;locals&gt;.&lt;lambda&gt; at 0x01107420&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+        return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="fc1b1853-8b02-421a-8a59-2e7b3f6af2a8-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13764-MainThread"/>
+        <label name="host" value="DESKTOP-DQNMCIN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1568779355026" status="failed" stop="1568779365448">
+          <name>修改地址组合业务方法</name>
+          <title>修改地址组合业务方法</title>
+          <attachments/>
+          <steps>
+            <step start="1568779355026" status="failed" stop="1568779365448">
+              <name>点击编辑方法</name>
+              <title>点击编辑方法</title>
+              <attachments/>
+              <steps>
+                <step start="1568779355026" status="failed" stop="1568779365448">
+                  <name>点击元素操作</name>
+                  <title>点击元素操作</title>
+                  <attachments>
+                    <attachment source="bf1b3b7a-08e8-425e-887e-8690865146ce-attachment.txt" title="点击的元素:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1568779355027" status="failed" stop="1568779365448">
+                      <name>定位元素操作</name>
+                      <title>定位元素操作</title>
+                      <attachments>
+                        <attachment source="60c7dc4d-3555-45d6-82e0-c407409a9889-attachment.txt" title="查找的元素:" type="text/plain"/>
+                      </attachments>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1568779365572" status="failed" stop="1568779375780">
+      <name>TestAddress.test03_delete_address</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;test02_address.TestAddress object at 0x011639B0&gt;
+
+    def test03_delete_address(self):
+        # 删除地址
+&gt;       self.page_address.page_delete_all_address()
+
+scripts\test02_address.py:56: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_address.py:178: in page_delete_all_address
+    list_text = self.base_get_list_text(page.add_name_phone)
+base\base.py:110: in base_get_list_text
+    return [element.text for element in self.base_find_elements(loc)]
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:33: in base_find_elements
+    .until(lambda x: x.find_elements(*loc)))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="6c98f9bb-9ef5-4659-bea2-c770351f1f52")&gt;
+method = &lt;function Base.base_find_elements.&lt;locals&gt;.&lt;lambda&gt; at 0x0114C588&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+        return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\zhangzebao\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="8fad927a-ba78-4cef-8e94-15d8e557e1dd-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13764-MainThread"/>
+        <label name="host" value="DESKTOP-DQNMCIN"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1568779365574" status="failed" stop="1568779375693">
+          <name>删除所有地址组合业务方法</name>
+          <title>删除所有地址组合业务方法</title>
+          <attachments/>
+          <steps>
+            <step start="1568779365575" status="failed" stop="1568779375693">
+              <name>定位一组元素操作</name>
+              <title>定位一组元素操作</title>
+              <attachments>
+                <attachment source="0e4d03dc-fa57-4ae6-9e00-ae5c635136e5-attachment.txt" title="查找的一组元素:" type="text/plain"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,1 @@
+base.py                     31 INFO     正在查找一组元素:('id', 'com.yunmall.lc:id/receipt_name') 超时时间:10 访问评率:0.5
